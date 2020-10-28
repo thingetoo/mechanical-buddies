@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mechanical-buddies/static/css/main.b10aed01.chunk.css",
+    "main.js": "/mechanical-buddies/static/js/main.44adf142.chunk.js",
+    "main.js.map": "/mechanical-buddies/static/js/main.44adf142.chunk.js.map",
+    "runtime-main.js": "/mechanical-buddies/static/js/runtime-main.c06392ea.js",
+    "runtime-main.js.map": "/mechanical-buddies/static/js/runtime-main.c06392ea.js.map",
+    "static/css/2.b97b5188.chunk.css": "/mechanical-buddies/static/css/2.b97b5188.chunk.css",
+    "static/js/2.e65f15e6.chunk.js": "/mechanical-buddies/static/js/2.e65f15e6.chunk.js",
+    "static/js/2.e65f15e6.chunk.js.map": "/mechanical-buddies/static/js/2.e65f15e6.chunk.js.map",
+    "static/js/3.f35a1111.chunk.js": "/mechanical-buddies/static/js/3.f35a1111.chunk.js",
+    "static/js/3.f35a1111.chunk.js.map": "/mechanical-buddies/static/js/3.f35a1111.chunk.js.map",
+    "index.html": "/mechanical-buddies/index.html",
+    "static/css/2.b97b5188.chunk.css.map": "/mechanical-buddies/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.b10aed01.chunk.css.map": "/mechanical-buddies/static/css/main.b10aed01.chunk.css.map",
+    "static/js/2.e65f15e6.chunk.js.LICENSE.txt": "/mechanical-buddies/static/js/2.e65f15e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mechanical-buddies/static/media/Pixelato.ab10cefd.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c06392ea.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.e65f15e6.chunk.js",
+    "static/css/main.b10aed01.chunk.css",
+    "static/js/main.44adf142.chunk.js"
+  ]
+}
